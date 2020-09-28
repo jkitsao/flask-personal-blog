@@ -1,0 +1,38 @@
+{%extends 'base.html'%}
+{% import 'bootstrap/wtf.html' as wtf %}
+{%block content%}
+<h2 font color="pink">BEAUTY , LIFESTYLE AND FASHION</h2>
+    {{wtf.quick_form(subscriber_form)}}
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8VwFiuVRJk6iHQpaJzaqvbBjJwru5mwcSnTsOqz9cwCBdk16E" height="200" width="1300">
+   <div class="well">
+   
+        {%for blog in blogs%}
+    
+        <p>
+            {{blog.category}}:{{blog.content}}
+            
+        </p>
+        <button>Comment</button>
+        <button>READMORE</button>
+        
+        {%endfor%}
+        </div>
+        <div  class="container">
+            <div class="wells">
+            <div class="row">
+                <div class="col-md-8">
+                    <h4>BEAUTY</h4>
+                    <img src="http://cdn3-www.thefashionspot.com/assets/uploads/2018/09/best-detanglers-for-natural-hair-p-309x415.jpg"height="250" width="250">
+               <p>10 impressize detangling 
+                   for curly hair</p>
+                   <img src="http://cdn1-www.thefashionspot.com/assets/uploads/2018/09/easy-makeup-routines-p-309x415.jpg"height="250" width="250">
+                <p>7 EAsy influencer approved by dctors</p>
+                </div>
+
+            </div>
+        </div>
+        </div>
+
+
+
+{%endblock%}
