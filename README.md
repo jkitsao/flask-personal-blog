@@ -1,6 +1,6 @@
 # Pitch
 
-#### By _Okoth Pius Ogutu
+#### By Jackson kitsao
 
 #### Date 28-09-2020
 
@@ -16,7 +16,7 @@ A personal bloging application with comments capabilities
 
 ## Prequisites
 * `Git`
-* `python3.6`
+* `python3.8`
 
 
 
