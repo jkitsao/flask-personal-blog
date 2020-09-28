@@ -44,7 +44,7 @@ A personal bloging application with comments capabilities
 
 ## Contact Information
 
-* **[Email](jacksonkitsao10)**
+* **[Email](jacksonkitsao10@gmail.com)**
 * **[linkedln](https://www.linkedin.com/in/oruko-pius-213b6715a/)**
 
 ### License
