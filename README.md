@@ -45,10 +45,9 @@ A personal bloging application with comments capabilities
 ## Contact Information
 
 * **[Email](jacksonkitsao10@gmail.com)**
-* **[linkedln](https://www.linkedin.com/in/oruko-pius-213b6715a/)**
 
 ### License
 
 This software is licensed under the MIT license.
 
-MIT &copy;2019 **[orukopius](https://github.com/OkothPiu
+MIT &copy;2020 **[kitsao](https://github.com/jkitsao
