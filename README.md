@@ -31,13 +31,13 @@ A personal bloging application with comments capabilities
 
 * Run by:
            ```
-            python3.6 manage.py server 
+            python3.8 manage.py server 
            ```            
 
 
 ## Technologies Used
 
-* Python3.6
+* Python3.8
 * flask
 * Postgresql
 * Heroku
