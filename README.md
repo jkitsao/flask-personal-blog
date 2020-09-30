@@ -1,8 +1,6 @@
-# Pitch
+# flasky console (csl) blog [see live site here](https://cslapp.herokuapp.com/)
+#### disclaimer dates have been hard coded email may not work
 
-#### By Jackson kitsao
-
-#### Date 28-09-2020
 
 ## Description
 
@@ -50,4 +48,4 @@ A personal bloging application with comments capabilities
 
 This software is licensed under the MIT license.
 
-MIT &copy;2020 **[kitsao](https://github.com/jkitsao
+MIT &copy;2020 **[kitsao](https://github.com/jkitsao)
